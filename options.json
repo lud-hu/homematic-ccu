@@ -1,0 +1,24 @@
+{
+    "rf_enable": false,
+    "rf": [
+      {
+        "type": "CCU2",
+        "device": "/dev/ttyAMA0"
+      }
+    ],
+    "wired_enable": false,
+    "wired": [
+      {
+        "serial": "xy",
+        "key": "abc",
+        "ip": "192.168.0.0"
+      }
+    ],
+    "hmip_enable": true,
+    "hmip": [
+      {
+        "type": "HMIP_CCU2",
+        "device": "/dev/ttyUSB0"
+      }
+    ]
+}
