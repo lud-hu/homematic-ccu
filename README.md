@@ -4,7 +4,7 @@ This is a little docker container for providing a local server with the homemati
 
 It is basically built on the hassio homematic addon: https://github.com/home-assistant/hassio-addons/tree/master/homematic
 
-I've just built a docker image from the code and provide it with some information on how to run it.
+I've just built a docker image from the code and provide it with some information on how to run it. You can find it here: https://hub.docker.com/r/luhudroid/homematic-ccu
 
 # How to use it
 
